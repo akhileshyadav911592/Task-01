@@ -1,0 +1,11 @@
+gender,SeniorCitizen,tenure,MonthlyCharges,TotalCharges,Churn
+Male,0,12,29.85,358.2,0
+Female,1,2,53.85,108.15,1
+Male,0,24,42.30,1015.2,0
+Female,0,1,70.50,70.50,1
+Male,1,36,89.10,3207.6,0
+Female,0,5,75.25,376.25,1
+Male,0,48,95.00,4560.00,0
+Female,1,3,65.20,195.60,1
+Male,0,60,105.30,6318.00,0
+Female,0,8,58.75,470.00,1
